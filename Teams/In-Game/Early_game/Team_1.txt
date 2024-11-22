@@ -1,0 +1,22 @@
+Pidgey  
+Ability: Keen Eye  
+Level: 50  
+Tera Type: Normal  
+- Tackle  
+- Sand Attack  
+
+Rattata  
+Ability: Run Away  
+Level: 50  
+Tera Type: Normal  
+- Tackle  
+- Tail Whip  
+- Quick Attack  
+
+Caterpie  
+Ability: Shield Dust  
+Level: 50  
+Tera Type: Bug  
+- Tackle  
+- String Shot  
+
