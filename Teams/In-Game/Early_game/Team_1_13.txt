@@ -1,0 +1,26 @@
+Bulbasaur  
+Ability: Overgrow  
+Level: 50  
+Tera Type: Grass  
+- Poison Powder  
+- Razor Leaf  
+- Growth  
+- Leech Seed
+
+Beedrill  
+Ability: Swarm 
+Level: 50 
+Tera Type: Bug  
+- Bug Bite  
+- Fury Cutter  
+- String Shot  
+- Poison Sting
+
+Pikachu  
+Ability: Static  
+Level: 50  
+Tera Type: Electric  
+- Double Team  
+- Nuzzle  
+- Quick Attack  
+- Thunder Shock

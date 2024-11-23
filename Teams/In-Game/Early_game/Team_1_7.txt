@@ -1,9 +1,20 @@
+Pikachu  
+Ability: Static  
+Level: 50  
+Tera Type: Electric  
+- Double Team  
+- Nuzzle  
+- Quick Attack  
+- Thunder Shock
+
 Pidgey  
 Ability: Keen Eye  
 Level: 50  
 Tera Type: Normal  
 - Tackle  
 - Sand Attack  
+- Gust
+- Quick Attack
 
 Rattata  
 Ability: Run Away  
@@ -12,11 +23,3 @@ Tera Type: Normal
 - Tackle  
 - Tail Whip  
 - Quick Attack  
-
-Caterpie  
-Ability: Shield Dust  
-Level: 50  
-Tera Type: Bug  
-- Tackle  
-- String Shot  
-

@@ -1,0 +1,25 @@
+Squirtle  
+Ability: Torrent  
+Level: 50  
+Tera Type: Water  
+- Bite  
+- Water Pulse  
+- Withdraw  
+- Rapid Spin
+
+Beedrill  
+Ability: Swarm 
+Level: 50 
+Tera Type: Bug  
+- Bug Bite  
+- Fury Cutter  
+- String Shot  
+- Poison Sting
+
+Rattata  
+Ability: Run Away  
+Level: 50  
+Tera Type: Normal  
+- Tackle  
+- Tail Whip  
+- Quick Attack  

@@ -1,0 +1,26 @@
+Pikachu  
+Ability: Static  
+Level: 50  
+Tera Type: Electric  
+- Double Team  
+- Nuzzle  
+- Quick Attack  
+- Thunder Shock
+
+Squirtle  
+Ability: Torrent  
+Level: 50  
+Tera Type: Water  
+- Bite  
+- Water Pulse  
+- Withdraw  
+- Rapid Spin
+
+Beedrill  
+Ability: Swarm 
+Level: 50 
+Tera Type: Bug  
+- Bug Bite  
+- Fury Cutter  
+- String Shot  
+- Poison Sting

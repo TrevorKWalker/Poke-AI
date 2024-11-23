@@ -1,0 +1,28 @@
+Turtwig  
+Ability: Overgrow  
+Level: 50  
+Tera Type: Grass  
+- Tackle  
+- Withdraw  
+- Razor Leaf  
+- Absorb
+
+Staravia  
+Ability: Intimidate  
+Level: 50  
+Tera Type: Normal  
+- Wing Attack  
+- Double Team  
+- Quick Attack  
+- Leer
+
+Budew  
+Ability: Natural Cure  
+Level: 50  
+Tera Type: Grass  
+IVs: 0 Atk  
+- Absorb  
+- Growth  
+- Stun Spore  
+- Worry Seed  
+

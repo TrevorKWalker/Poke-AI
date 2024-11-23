@@ -1,0 +1,25 @@
+Bulbasaur  
+Ability: Overgrow  
+Level: 50  
+Tera Type: Grass  
+- Poison Powder  
+- Razor Leaf  
+- Growth  
+- Leech Seed
+
+Rattata  
+Ability: Run Away  
+Level: 50  
+Tera Type: Normal  
+- Tackle  
+- Tail Whip  
+- Quick Attack  
+
+Pidgey  
+Ability: Keen Eye  
+Level: 50  
+Tera Type: Normal  
+- Tackle  
+- Sand Attack  
+- Gust
+- Quick Attack

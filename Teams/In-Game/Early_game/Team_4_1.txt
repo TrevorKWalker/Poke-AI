@@ -1,0 +1,27 @@
+Chimchar  
+Ability: Blaze  
+Level: 50  
+Tera Type: Fire  
+- Scratch  
+- Leer  
+- Ember  
+- Taunt  
+
+Bidoof  
+Ability: Simple  
+Level: 50  
+Tera Type: Normal  
+- Growl  
+- Headbutt  
+- Defense Curl  
+- Rollout  
+
+Shinx  
+Ability: Rivalry  
+Level: 50  
+Tera Type: Electric  
+- Spark  
+- Bite  
+- Charge  
+- Leer  
+

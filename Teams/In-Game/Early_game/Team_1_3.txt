@@ -1,0 +1,25 @@
+Squirtle  
+Ability: Torrent  
+Level: 50  
+Tera Type: Water  
+- Bite  
+- Water Pulse  
+- Withdraw  
+- Rapid Spin
+
+Rattata  
+Ability: Run Away  
+Level: 50  
+Tera Type: Normal  
+- Tackle  
+- Tail Whip  
+- Quick Attack  
+
+Butterfree  
+Ability: Compound Eyes  
+Level: 50
+Tera Type: Bug  
+- Bug Bite  
+- Poison Powder  
+- Stun Spore  
+- Confusion
